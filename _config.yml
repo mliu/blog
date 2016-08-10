@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://mliu95.github.io
+url: http://mliu.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -69,7 +69,7 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/mliu95/mliu95.github.io.git
+  repo: https://github.com/mliu/mliu.github.io.git
 
 # Disqus
 disqus_shortname: liucode
